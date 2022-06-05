@@ -21,7 +21,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
-
 <?php
 hello_elementor_body_open();
 
